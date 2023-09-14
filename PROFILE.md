@@ -1,0 +1,1 @@
+Hello I am Jeong In Gyo. I am studying Open Source SW as as I major Artificial Intelligence in Gachon University. I like listening to music, playing games and hanging around with my pals. Thank you for watching my profile :)

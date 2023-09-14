@@ -1,1 +1,1 @@
-# temp-repo
+For today's lesson, via GitHub, I learned plenty of things such as making a new branch or commiting a new file. Then I am capable of opening a Pull Request with some document and merging my branch into the main.
